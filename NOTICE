@@ -1,0 +1,14 @@
+This project redistributes audio from the XDG / freedesktop sound theme
+("sound-theme-freedesktop"), converted from Ogg Vorbis (.oga) to PCM WAV
+for Windows compatibility. The audio content is NOT covered by the MIT
+license of the installer scripts.
+
+Upstream project:
+  https://gitlab.freedesktop.org/xdg/xdg-sound-theme
+  https://www.freedesktop.org/wiki/Specifications/sound-theme-spec/
+
+Per-file authorship and licenses are listed in CREDITS (copied from the
+upstream package). Typical licenses in that theme include CC-BY 3.0,
+CC-BY-SA, and GPLv2+.
+
+If you redistribute the WAV files, keep CREDITS and this NOTICE with them.

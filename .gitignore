@@ -1,0 +1,6 @@
+source/
+*.pkg.tar.zst
+*.bin
+.DS_Store
+Thumbs.db
+*.log
